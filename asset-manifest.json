@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/schiminsky-schiminsky.github.io.git/static/css/main.473159c8.chunk.css",
-    "main.js": "/schiminsky-schiminsky.github.io.git/static/js/main.de641962.chunk.js",
-    "main.js.map": "/schiminsky-schiminsky.github.io.git/static/js/main.de641962.chunk.js.map",
-    "runtime-main.js": "/schiminsky-schiminsky.github.io.git/static/js/runtime-main.4d6c98d2.js",
-    "runtime-main.js.map": "/schiminsky-schiminsky.github.io.git/static/js/runtime-main.4d6c98d2.js.map",
-    "static/js/2.46bcad09.chunk.js": "/schiminsky-schiminsky.github.io.git/static/js/2.46bcad09.chunk.js",
-    "static/js/2.46bcad09.chunk.js.map": "/schiminsky-schiminsky.github.io.git/static/js/2.46bcad09.chunk.js.map",
-    "index.html": "/schiminsky-schiminsky.github.io.git/index.html",
-    "static/css/main.473159c8.chunk.css.map": "/schiminsky-schiminsky.github.io.git/static/css/main.473159c8.chunk.css.map",
-    "static/js/2.46bcad09.chunk.js.LICENSE.txt": "/schiminsky-schiminsky.github.io.git/static/js/2.46bcad09.chunk.js.LICENSE.txt"
+    "main.css": "/schiminsky/static/css/main.473159c8.chunk.css",
+    "main.js": "/schiminsky/static/js/main.de641962.chunk.js",
+    "main.js.map": "/schiminsky/static/js/main.de641962.chunk.js.map",
+    "runtime-main.js": "/schiminsky/static/js/runtime-main.3194a06c.js",
+    "runtime-main.js.map": "/schiminsky/static/js/runtime-main.3194a06c.js.map",
+    "static/js/2.46bcad09.chunk.js": "/schiminsky/static/js/2.46bcad09.chunk.js",
+    "static/js/2.46bcad09.chunk.js.map": "/schiminsky/static/js/2.46bcad09.chunk.js.map",
+    "index.html": "/schiminsky/index.html",
+    "static/css/main.473159c8.chunk.css.map": "/schiminsky/static/css/main.473159c8.chunk.css.map",
+    "static/js/2.46bcad09.chunk.js.LICENSE.txt": "/schiminsky/static/js/2.46bcad09.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d6c98d2.js",
+    "static/js/runtime-main.3194a06c.js",
     "static/js/2.46bcad09.chunk.js",
     "static/css/main.473159c8.chunk.css",
     "static/js/main.de641962.chunk.js"
