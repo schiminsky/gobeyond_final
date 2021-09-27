@@ -70,3 +70,14 @@
     background-size: cover;
     right: 0;
 }
+
+@media screen and (max-width: 768px) {
+    .gallery{
+        flex-direction: column;
+    }
+
+    .gallery .first-col,
+    .gallery .second-col {
+        width: 100%;
+    }
+}
