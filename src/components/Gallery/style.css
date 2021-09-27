@@ -1,0 +1,72 @@
+.gallery {
+    display: flex;
+    justify-content: center;
+}
+
+.gallery .first-col {
+    width: 50%;
+    padding: 20px;
+}
+
+.gallery .first-col p {
+    color: white;
+    font-size: 60px;
+    height: 50%;
+}
+
+.thumbnails {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+
+}
+
+.thumbnails .item {
+    width: 120px;
+    height: 120px;
+}
+
+.thumbnails .item img {
+    max-width: 100%;
+}
+
+.gallery .second-col {
+    width: 50%;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.second-col img {
+    border-radius: 8px;
+    max-width: 100%;
+}
+
+.first-col .cta {
+    padding: 15px 45px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    position: relative;
+}
+
+.first-col .cta span {
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding-right: 22px;
+}
+
+.first-col .cta span:after{
+    content: '';
+    width: 15px;
+    height: 15px;
+    display: block;
+    position: absolute;
+    background-image: url("../../assets/images/arrow.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    right: 0;
+}
