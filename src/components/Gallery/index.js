@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from "react"
-import Paragraph from "../Paragraph"
-import "./style.css"
+import React, { useEffect, useState } from "react";
+import Paragraph from "../Paragraph";
+import "./style.css";
 
 function Gallery() {
     const url = 'https://jsonplaceholder.typicode.com/photos?_start=0&_limit=5';
