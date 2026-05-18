@@ -16,7 +16,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://schiminsky.github.io/gobeyond_final",
+  "homepage": "https://schiminsky.github.io/go_beyond_part_2",
   "eslintConfig": {
     "extends": [
       "react-app",
