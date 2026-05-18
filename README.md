@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Go Beyond - Bootcamp Corebiz 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O **Go Beyond** foi um bootcamp intensivo de uma semana promovido pela **Corebiz**, projetado para preparar e introduzir novos desenvolvedores no mercado de trabalho de e-commerce e tecnologia. 
 
-## Available Scripts
+O projeto simulou o ambiente real de uma agência, dividindo os participantes em três frentes colaborativas: **Front-end**, **Back-end** e **Mídia**.
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+## 💻 Minha Participação: Front-end
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Como desenvolvedor na equipe de **Front-end**, fui responsável por transformar os layouts e estratégias propostas pela equipe de Mídia em uma aplicação web funcional, performática e responsiva, além de realizar a integração com as APIs desenvolvidas pelo time de Back-end.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Principais Responsabilidades:
+* **Desenvolvimento de Componentes:** Criação de interfaces modernas, modulares e reutilizáveis.
+* **Responsividade:** Garantia de uma experiência de usuário (UX) fluida tanto em dispositivos móveis quanto em desktop.
+* **Consumo de APIs:** Integração assíncrona com o ecossistema construído pelo time de Back-end.
 
-### `yarn test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tecnologias Utilizadas
 
-### `yarn build`
+A stack do projeto foi escolhida para refletir as demandas reais do mercado de desenvolvimento moderno:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* **HTML5 & CSS3**
+* **JavaScript (ES6+)**
+* **React** 
+* **Git & GitHub**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
+## 🚀 Guia de Instalação e Execução
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Siga as instruções abaixo para configurar o ambiente e rodar o projeto localmente em sua máquina.
 
-### `yarn eject`
+## 📋 Pré-requisitos
+Antes de começar, você precisará ter instalado em sua máquina:
+* **Node.js** 
+* **npm** ou **Yarn**
+* Um navegador moderno para visualização (Chrome, Firefox ou Edge)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠️ Passo a Passo
+**Clonar o Repositório:**
+```bash
+  git clone https://github.com/schiminsky/teste-front-end.git
+```
+**Instale as dependências e rode (npm):**
+```bash
+  npm install
+  npm install sass
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  npm start
+```
+**se preferir usar o Yarn:**
+```bash
+  yarn install
+  yarn install sass
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  yarn start
+```
+---
 
-## Learn More
+ <p align="center">
+Desenvolvido por <strong>Claudio Schiminsky Junior</strong>
+</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
