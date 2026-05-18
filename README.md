@@ -42,7 +42,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 ## 🛠️ Passo a Passo
 **Clonar o Repositório:**
 ```bash
-  git clone https://github.com/schiminsky/teste-front-end.git
+  git clone https://github.com/schiminsky/go_beyond_part_2.git
 ```
 **Instale as dependências e rode (npm):**
 ```bash
